@@ -23,6 +23,7 @@
 **Acknowledgements**
 
 > This dataset was originally donated to the UCI Machine Learning repository. You can learn more about past research using the data here.
+> link: https://archive.ics.uci.edu/ml/datasets/mushroom
 
 # Library Used in this Project
 
